@@ -7,8 +7,7 @@ import { colors } from "../Theme";
 const GlobalSideBar = styled.aside`
   width: 20%;
   height: 100%;
-  background-color: #efefef;
-  border-right: 3px solid ${colors.bisque};
+  border-right: 1px solid #eee;
 `;
 
 const NavigatorList = styled.ul`
