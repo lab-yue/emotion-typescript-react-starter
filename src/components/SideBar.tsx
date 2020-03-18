@@ -1,8 +1,8 @@
-import styled from "@emotion/styled";
-import React from "react";
-import { Link } from "react-router-dom";
-import routes from "../Routes";
-import { colors } from "../Theme";
+import styled from '@emotion/styled';
+import React from 'react';
+import { Link } from 'react-router-dom';
+import routes from '../Routes';
+import { colors } from '../Theme';
 
 const GlobalSideBar = styled.aside`
   width: 20%;

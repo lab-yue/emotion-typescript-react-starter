@@ -1,6 +1,6 @@
-import styled from "@emotion/styled";
-import React from "react";
-import { colors } from "../Theme";
+import styled from '@emotion/styled';
+import React from 'react';
+import { colors } from '../Theme';
 
 const GlobalHeader = styled.header`
   border-bottom: 3px solid ${colors.lightseagreen};

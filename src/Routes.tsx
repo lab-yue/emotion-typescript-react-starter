@@ -1,4 +1,4 @@
-import About from "./pages/About";
+import About from './pages/About';
 
 interface Routes {
   title: string;
@@ -8,10 +8,10 @@ interface Routes {
 
 const routes: Routes[] = [
   {
-    title: "About",
-    url: "/about",
-    component: About
-  }
+    title: 'About',
+    url: '/about',
+    component: About,
+  },
 ];
 
 export default routes;
